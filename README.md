@@ -5,7 +5,7 @@ Komplex OS X Trojan checker
 
 Link to <a href="http://researchcenter.paloaltonetworks.com/2016/09/unit42-sofacys-komplex-os-x-trojan/">PaloAlto research blog</a>
 
-###USAGE
+### USAGE
 
 ~~~bash
 $ git clone https://github.com/joanbono/Komplex_Checker.git
